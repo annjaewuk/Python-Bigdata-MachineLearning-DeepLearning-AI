@@ -2,5 +2,5 @@
 
 <div align="center">
   <img src="국민연금 보유주 분석 데모.PNG" alt="국민연금 보유주 분석 데모">
-  <img src="your-visualization-image-url" alt="">
+  <img src="네이버API_증권분석 데모.PNG" alt="">
 </div>
